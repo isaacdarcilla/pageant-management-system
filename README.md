@@ -30,3 +30,7 @@ Go to **start** folder and edit the **config.php** file.
   $db_pass = "";				        
 ?>
 ```
+
+### 👨🏼‍💻 Developer
+
+Developed by Isaac (facebook.com/isaacdarcilla)
