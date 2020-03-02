@@ -14,5 +14,17 @@ ePageant is a web-based pageant and event management system crafted to organize 
 
 And so much more...
 
-### Configuration
+### 📒 Configuration
 
+Note that this system is best deployed in a non-production envicronment because of insecurity. To deploy, you must have installed XAMPP in your desktop.
+
+Go to **start** folder and edit the **config.php** file.
+
+```php
+<?php
+	$db_host = "localhost";  		   
+	$db_name = "pageant_database"; 	
+	$db_user = "root"; 			 	    
+	$db_pass = "";				        
+?>
+```
