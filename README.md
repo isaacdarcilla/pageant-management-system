@@ -11,6 +11,7 @@ ePageant is a web-based pageant and event management system crafted to organize 
 - Realtime results viewing.
 - Robust event and user management.
 - Support every contest therein.
+- Audience voting.
 
 And so much more...
 
@@ -31,10 +32,15 @@ Go to **start** folder and edit the **config.php** file.
 ?>
 ```
 
-Use the credentials below to login as organizer.
+Use the credentials below to login as **organizer**.
 
 **Username: fyesa**<br/>
 **Password: MM2018**
+
+Use the credentials below to login as **judge**
+
+**Username: isaac**<br/>
+**Password: Y4S0F6**
 
 Try to explore the features and please fork or star the repo to support 🎉✨
 
