@@ -1,6 +1,6 @@
 ### ✨ It's time for an amazing event
 
-ePageant is a web-based pageant and event management system crafted to organize and minimize pageant event hassles and worries. Evento is free-to-use, accessible, powerful, and provides tools required for big events.
+ePageant is a web-based pageant and event management system crafted to organize and minimize pageant event hassles and worries. ePageant is free-to-use, accessible, powerful, and provides tools required for big events.
 
 ![](https://github.com/isaacdarcilla/pageant-management-system/blob/master/assets/DeepinScreenshot_select-area_20200302113826.png)
 
@@ -36,7 +36,7 @@ Use the credentials below to login as organizer.
 **Username: fyesa**<br/>
 **Password: MM2018**
 
-Try to explore the features 🎉✨
+Try to explore the features and please fork or star the repo to support 🎉✨
 
 ### 💻 Developer
 
