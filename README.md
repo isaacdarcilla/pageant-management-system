@@ -33,8 +33,10 @@ Go to **start** folder and edit the **config.php** file.
 
 Use the credentials below to login as organizer.
 
-**Username: fyesa** <br>
+**Username: fyesa**<br/>
 **Password: MM2018**
+
+Try to explore the features 🎉✨
 
 ### 💻 Developer
 
