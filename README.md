@@ -34,14 +34,14 @@ Go to **start** folder and edit the **config.php** file.
 
 Use the credentials below to login as **organizer**.
 ```bash
-**Username: fyesa**<br/>
-**Password: MM2018**
+Username: fyesa
+Password: MM2018
 ```
 Use the credentials below to login as **judge**.
 ```bash
-**Username: isaac**<br/>
-**Password: Y4S0F6**<br/>
-**Code: MM2018**
+Username: isaac
+Password: Y4S0F6
+Code: MM2018
 ```
 
 Try to explore the features and please fork or star the repo to support 🎉✨
