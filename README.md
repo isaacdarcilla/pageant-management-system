@@ -37,10 +37,12 @@ Use the credentials below to login as **organizer**.
 **Username: fyesa**<br/>
 **Password: MM2018**
 
-Use the credentials below to login as **judge**
+Use the credentials below to login as **judge**.
 
 **Username: isaac**<br/>
-**Password: Y4S0F6**
+**Password: Y4S0F6**<br/>
+**Code: MM2018**
+
 
 Try to explore the features and please fork or star the repo to support 🎉✨
 
