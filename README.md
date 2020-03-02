@@ -16,7 +16,7 @@ And so much more...
 
 ### 📒 Configuration
 
-Note that this system is best deployed in a non-production envicronment because of insecurity. To deploy, you must have installed XAMPP in your desktop.
+Note that this system is best deployed in a non-production environment because of insecurity. To deploy, you must have installed XAMPP in your desktop.
 
 The database is located in **database** folder.
 
