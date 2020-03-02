@@ -1023,7 +1023,7 @@ CREATE TABLE `user_table` (
 --
 
 INSERT INTO `user_table` (`user_id`, `admin`, `username`, `email`, `password`) VALUES
-(1, 'Isaac D. Ar', 'isaacdarcilla', 'isaacdarcilla@yahoo.com', '8bdca1674961121a55ac330e734a24ea');
+(1, 'Isaac D. Arcilla', 'isaacdarcilla', 'isaacdarcilla@yahoo.com', '8bdca1674961121a55ac330e734a24ea');
 
 --
 -- Indexes for dumped tables
