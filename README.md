@@ -51,3 +51,7 @@ Try to explore the features and please fork or star the repo to support 🎉✨
 ### 💻 Developer
 
 Developed by Isaac (facebook.com/isaacdarcilla)
+
+### ✨ Support
+
+Fork or star this repository for support.
