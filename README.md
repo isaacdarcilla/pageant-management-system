@@ -55,3 +55,7 @@ Developed by Isaac (facebook.com/isaacdarcilla)
 ### ✨ Support
 
 Fork or star this repository for support.
+
+### 📝 No Scammers
+
+No scammers allowed like [Boy Takbo](https://github.com/noriellecruz)
