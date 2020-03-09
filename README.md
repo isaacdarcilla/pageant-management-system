@@ -23,7 +23,7 @@ View demo of [Miss Macho](http://missmacho.herokuapp.com/)
 
 ### 📒 Configuration
 
-Note that this system is best deployed in a non-production environment because of insecurity. To deploy, you must have installed XAMPP in your desktop.
+Note that this system is best deployed in a non-production environment because of insecurity. To deploy, you must have installed XAMPP or WAMPP in your desktop.
 
 The database is located in **database** folder.
 
