@@ -17,6 +17,10 @@ ePageant is a web-based pageant and event management system crafted to organize 
 
 And so much more...
 
+### 🤘 Demo
+
+View demo of [Miss Macho](http://missmacho.herokuapp.com/)
+
 ### 📒 Configuration
 
 Note that this system is best deployed in a non-production environment because of insecurity. To deploy, you must have installed XAMPP in your desktop.
