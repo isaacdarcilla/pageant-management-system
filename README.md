@@ -65,5 +65,3 @@ Fork or star this repository for support.
 Not accepting any issues and pull requests. 
 
 ### 📝 No Scammers
-
-No scammers allowed like [Boy Takbo](https://github.com/noriellecruz)
