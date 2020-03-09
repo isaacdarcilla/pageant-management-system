@@ -60,6 +60,10 @@ Developed by Isaac (facebook.com/isaacdarcilla)
 
 Fork or star this repository for support.
 
+### 🐞 Issues and Pull Requests
+
+Not accepting any issues and pull requests. 
+
 ### 📝 No Scammers
 
 No scammers allowed like [Boy Takbo](https://github.com/noriellecruz)
