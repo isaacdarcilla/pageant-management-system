@@ -31,10 +31,10 @@ Go to **start** folder and edit the **config.php** file.
 
 ```php
 <?php
-  $db_host = "localhost";  		   
-  $db_name = "pageant_database"; 	
-  $db_user = "root"; 			 	    
-  $db_pass = "";				        
+  $db_host = "localhost"; //Server name
+  $db_name = "pageant_database"; //Database name	
+  $db_user = "root"; //Username
+  $db_pass = ""; //Password
 ?>
 ```
 
