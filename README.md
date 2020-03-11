@@ -19,7 +19,7 @@ And so much more...
 
 ### 🤘 Demo
 
-View demo of [Miss Macho](http://missmacho.herokuapp.com/)
+View demo of [Miss Macho](http://missmacho.herokuapp.com/).
 
 ### 📒 Configuration
 
@@ -54,7 +54,7 @@ Try to explore the features and please fork or star the repo to support 🎉✨
 
 ### 💻 Developer
 
-Developed by Isaac (facebook.com/isaacdarcilla)
+Developed by Isaac [facebook.com/isaacdarcilla](https://web.facebook.com/isaacdarcilla)
 
 ### ✨ Support
 
