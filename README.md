@@ -17,6 +17,12 @@ ePageant is a web-based pageant and event management system crafted to organize 
 
 And so much more...
 
+### ⬇️ Download 
+
+```
+$ git clone https://github.com/isaacdarcilla/pageant-management-system.git
+```
+
 ### 🤘 Demo
 
 View demo of [Miss Macho](http://missmacho.herokuapp.com/).
