@@ -6,6 +6,7 @@
 -- Generation Time: Oct 05, 2019 at 10:40 AM
 -- Server version: 10.1.25-MariaDB
 -- PHP Version: 7.1.7
+-- Isaac
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
