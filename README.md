@@ -32,7 +32,7 @@ View demo of [Miss Macho](http://missmacho.herokuapp.com/).
 
 Note that this system is best deployed in a non-production environment because of insecurity. To deploy, you must have installed XAMPP or WAMPP in your desktop.
 
-The database is located in **database** folder.
+The database is located in **database** folder. Export it in **phpmyadmin**.
 
 Go to **start** folder and edit the **config.php** file.
 
