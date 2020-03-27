@@ -46,12 +46,12 @@ Go to **start** folder and edit the **config.php** file.
 ```
 
 Use the credentials below to login as **organizer**.
-```bash
+```
 Username: fyesa
 Password: MM2018
 ```
 Use the credentials below to login as **judge**.
-```bash
+```
 Username: isaac
 Password: Y4S0F6
 Code: MM2018
