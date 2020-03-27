@@ -24,7 +24,7 @@ $ git clone https://github.com/isaacdarcilla/pageant-management-system.git
 $ cd pageant-management-system
 ```
 
-### 🤘 Demo
+### 🤘 Demonstration
 
 View demo of [Miss Macho](http://missmacho.herokuapp.com/).
 
