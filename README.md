@@ -63,6 +63,7 @@ Try to explore the features and please fork or star the repo to support 🎉✨
 ### 💻 Developer
 
 Developed by Isaac [(facebook.com/isaacdarcilla)](https://web.facebook.com/isaacdarcilla)
+This project is discontinued.
 
 ### ✨ Support
 
