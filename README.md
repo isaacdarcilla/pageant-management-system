@@ -67,7 +67,7 @@ This project is discontinued.
 
 ### ✨ Support
 
-Fork or star this repository for support.
+Fork or star this repository for support. This project is discontinued.
 
 ### 🐞 Issues and Pull Requests
 
