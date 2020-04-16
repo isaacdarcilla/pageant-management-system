@@ -1,6 +1,6 @@
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="250"></p>
 
-<p align="center"> ✨ It's time for an amazing event </p>
+<h2 align="center"> ✨ It's time for an amazing event </h2>
 
 ePageant is a web-based pageant and event management system crafted to organize and minimize pageant event hassles and worries. ePageant is free-to-use, accessible, powerful, and provides tools required for big events.
 
