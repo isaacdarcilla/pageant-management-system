@@ -15,7 +15,6 @@ ePageant is a web-based pageant and event management system crafted to organize 
 - Support every contest therein.
 - Audience voting.
 - Ticket printing.
-- Audience client.
 
 And so much more...
 
