@@ -6,6 +6,7 @@ ePageant is a web-based pageant and event management system crafted to organize 
 
 ![](https://github.com/isaacdarcilla/pageant-management-system/blob/master/assets/DeepinScreenshot_select-area_20200302113826.png)
 
+
 - Simple, fast web application.
 - Hassle-free organization of events.
 - Automatic tabulation of scores.
